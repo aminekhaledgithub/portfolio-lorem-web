@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-lorem-web/static/css/main.60804ede.css",
+    "main.js": "/portfolio-lorem-web/static/js/main.a64e5e21.js",
+    "static/media/banniere1.png": "/portfolio-lorem-web/static/media/banniere1.f5d26a9d04e145261f1c.png",
+    "static/media/Banniere2.png": "/portfolio-lorem-web/static/media/Banniere2.d40909850ce77297f6fe.png",
+    "static/media/bgphotshop.png": "/portfolio-lorem-web/static/media/bgphotshop.95e3a65c129bf2e959f4.png",
+    "index.html": "/portfolio-lorem-web/index.html",
+    "main.60804ede.css.map": "/portfolio-lorem-web/static/css/main.60804ede.css.map",
+    "main.a64e5e21.js.map": "/portfolio-lorem-web/static/js/main.a64e5e21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60804ede.css",
+    "static/js/main.a64e5e21.js"
+  ]
+}
